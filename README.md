@@ -20,6 +20,8 @@ The Hotel Booking System is a web application that allows users to search, book,
 - Admin dashboard for managing hotels, rooms, and bookings
 - Responsive design for mobile and desktop users
 
+## Demo Video 
+
 https://github.com/user-attachments/assets/28a46d67-f63a-46fe-8641-5940501e2a89
 
 ![Screenshot 2024-07-20 200553](https://github.com/user-attachments/assets/087dd32b-393e-4565-8090-0029bebc347a)
