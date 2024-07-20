@@ -1,0 +1,50 @@
+.table-responsive {
+    overflow-y: auto;
+    height: 300px; /* adjust the height as needed */
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f0f0f0;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .table tr:hover {
+    background-color: #ccc;
+  }
+  
+  .email {
+    font-size: 14px;
+    color: #337ab7;
+  }
+  
+  .email:hover {
+    text-decoration: underline;
+  }
+  
+  .status {
+    font-size: 14px;
+    font-weight: bold;
+    color: #337ab7;
+  }
+  
+  .status.confirmed {
+    color: #2ecc71;
+  }
+  
+  .status.cancelled {
+    color: #e74c3c;
+  }

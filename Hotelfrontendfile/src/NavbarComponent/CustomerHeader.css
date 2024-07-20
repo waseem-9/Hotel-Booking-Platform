@@ -1,0 +1,9 @@
+.btn-danger:hover,
+.btn-danger:active {
+  background-color: initial;
+  background: 'linear-gradient(to right, #050C9C, #3572EF )',
+}
+
+.btn-danger:active {
+  opacity: 0.5;
+}
